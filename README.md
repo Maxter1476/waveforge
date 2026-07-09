@@ -63,7 +63,3 @@ Regenerate the figure: `python examples/showcase.py`.
 pytest -q     # 46 tests against the naive DFT, NumPy, and analytic filter theory
 ruff check .
 ```
-
-## License
-
-MIT
